@@ -8,6 +8,7 @@ Usage:
 ```
 git clone https://github.com/pivotalservices/oracle-jre-site.git
 cd oracle-jre/lucid/x86_64 # download the oracle jre and copy it here
+edit index.yml and insert your app domain
 cf push oracle-jre-site -b https://github.com/cloudfoundry-community/nginx-buildpack.git
 ```
 
