@@ -1,6 +1,6 @@
 ### Oracle JRE Site
 
-## Sample for showing how to host the Oracle JRE using the [https://github.com/cloudcommunity/nginx-buildpack](nginx-buildpack)
+## Sample for showing how to host the Oracle JRE using the [nginx-buildpack](https://github.com/cloudcommunity/nginx-buildpack)
 
 Usage:
 
